@@ -1,5 +1,5 @@
 
-Use the javascript console in chrome.
+Use the javascript console in chrome, scroll down until it has all the vacancies.
 
 const elements = document.querySelectorAll("div.BjJfJf.PUpOsf, div.vNEEBe, div.Qk80Jf");
 
