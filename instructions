@@ -1,6 +1,7 @@
 
 Use the javascript console in chrome, scroll down until it has all the vacancies.
 
+
 const elements = document.querySelectorAll("div.BjJfJf.PUpOsf, div.vNEEBe, div.Qk80Jf");
 
 let csvContent = "data:text/csv;charset=utf-8,function,company,foundBy\n";
@@ -21,4 +22,6 @@ link.setAttribute("href", encodedUri);
 link.setAttribute("download", "output.csv");
 document.body.appendChild(link); 
 link.click();
+
+You do need to remove some empty columns in the CSV
 
